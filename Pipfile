@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 django = "*"
+django-environ = "==0.4.5"
 djangorestframework = "*"
 mysqlclient = "~=2.0"
 
